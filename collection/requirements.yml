@@ -1,0 +1,5 @@
+collections:
+  - name: cisco.cdo 
+    version: ">=1.1.5"
+    source: https://galaxy.ansible.com
+
